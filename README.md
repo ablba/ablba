@@ -8,3 +8,10 @@
 ██║░░██║██████╦╝███████╗██████╦╝██║░░██║
 ╚═╝░░╚═╝╚═════╝░╚══════╝╚═════╝░╚═╝░░╚═╝
 ```
+</div>
+
+<div>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+</p>
+</div>
