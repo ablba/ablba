@@ -15,6 +15,6 @@
 
 <div>
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,docker,git,terminal,github,cs" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=vscode,docker,git,terminal,github,cs,go" alt="Tech Stack" />
 </p>
 </div>
